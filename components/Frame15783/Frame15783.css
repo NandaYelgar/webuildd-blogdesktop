@@ -1,0 +1,56 @@
+.frame-1578 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 279px;
+  position: relative;
+  width: 411px;
+}
+.frame-1583 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 32px;
+  min-width: 104px;
+  position: relative;
+}
+.frame-1584 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 24px;
+  min-height: 222px;
+  position: relative;
+  width: 302px;
+}
+.instagram {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  margin-left: 16px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  width: 24px;
+}
+.overlap-group1-2 {
+  background-size: 100% 100%;
+  height: 25px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 25px;
+}
+.vector-3 {
+  height: 14px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+.vector-4 {
+  height: 3px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 3px;
+}

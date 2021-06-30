@@ -1,0 +1,66 @@
+.frame-1580 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 16px;
+  min-height: 120px;
+  width: 194px;
+}
+.frame-4-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 160px;
+  width: 194px;
+}
+.frame-4-1.frame-5-1 {
+  margin-left: 24px;
+}
+.place {
+  color: var(--white);
+  height: 24px;
+  line-height: 28px;
+  margin-bottom: -4px;
+  margin-top: 8px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.text-4-1 {
+  color: var(--white);
+  height: 24px;
+  line-height: 28px;
+  margin-bottom: -4px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.text-41 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -6px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.text-43 {
+  color: var(--white);
+  height: 24px;
+  line-height: 28px;
+  margin-bottom: -4px;
+  margin-top: 8px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.text-44 {
+  color: var(--white);
+  height: 24px;
+  line-height: 28px;
+  margin-bottom: -4px;
+  margin-top: 8px;
+  min-height: 24px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}

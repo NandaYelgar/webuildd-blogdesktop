@@ -1,0 +1,17 @@
+.frame-1587 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 8px;
+  min-width: 104px;
+  position: relative;
+}
+.text-2 {
+  color: var(--red);
+  font-weight: 600;
+  height: 28px;
+  line-height: 28px;
+  min-height: 28px;
+  min-width: 70px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}

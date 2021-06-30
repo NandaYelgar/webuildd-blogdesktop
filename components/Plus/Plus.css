@@ -1,0 +1,12 @@
+.arrowsarrow-right {
+  align-items: center;
+  display: flex;
+  height: 28px;
+  margin-left: 6px;
+  min-width: 28px;
+  padding: 0 6px;
+}
+.vector {
+  height: 16px;
+  width: 16px;
+}

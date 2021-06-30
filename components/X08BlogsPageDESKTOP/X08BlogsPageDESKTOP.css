@@ -1,0 +1,119 @@
+.ellipse-10 {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 16px;
+  margin-left: 16px;
+  mix-blend-mode: normal;
+  width: 16px;
+}
+.ellipse-100 {
+  background-color: var(--red);
+  border-radius: 8px;
+  height: 16px;
+  margin-left: 16px;
+  mix-blend-mode: normal;
+  width: 16px;
+}
+.ellipse-101 {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 16px;
+  mix-blend-mode: normal;
+  width: 16px;
+}
+.frame-1568 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 85px;
+  min-height: 1648px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 896px;
+  width: 1281px;
+}
+.frame-1576 {
+  align-items: flex-end;
+  display: flex;
+  height: 2608px;
+  left: 0;
+  min-width: 1450px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.frame-1640 {
+  align-items: flex-start;
+  display: flex;
+  height: 512px;
+  min-width: 1281px;
+  position: relative;
+}
+.group-129 {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  left: 653px;
+  min-width: 144px;
+  position: absolute;
+  top: 624px;
+}
+.group-182 {
+  height: 469px;
+  left: 0;
+  position: absolute;
+  top: 187px;
+  width: 1450px;
+}
+.overlap-group {
+  height: 2608px;
+  margin-left: -5px;
+  position: relative;
+  width: 1450px;
+}
+.overlap-group1 {
+  height: 2627px;
+  margin-bottom: -19px;
+  position: relative;
+  width: 1450px;
+}
+.overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  min-width: 16px;
+}
+.text-28 {
+  color: var(--black);
+  left: 198px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 696px;
+  width: 1057px;
+}
+.title {
+  color: var(--black);
+  font-weight: 800;
+  height: 32px;
+  left: 517px;
+  line-height: 48px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 115px;
+  white-space: nowrap;
+  width: 418px;
+}
+.x08-blogs-page-desktop {
+  align-items: flex-start;
+  background-color: var(--desert-storm);
+  display: flex;
+  flex-direction: column;
+  height: 2993px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}

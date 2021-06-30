@@ -1,0 +1,110 @@
+.frame-27 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 700px;
+  mix-blend-mode: normal;
+  padding: 0 3px;
+}
+.frame-34 {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  margin-left: 226px;
+  min-width: 876px;
+  position: relative;
+}
+.header-with-background {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 72px;
+  left: 5px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  padding: 0 80px;
+  position: absolute;
+  top: 0;
+}
+.overlap-group1-1 {
+  height: 21px;
+  position: relative;
+  width: 54px;
+}
+.rectangle-61 {
+  background-color: var(--red);
+  height: 8px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 54px;
+}
+.selected {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 27px;
+  min-width: 56px;
+}
+.text-56 {
+  height: 21px;
+  left: 4px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.unselected-i2601273 {
+  color: var(--black);
+  height: 21px;
+  min-height: 21px;
+  min-width: 42px;
+  mix-blend-mode: normal;
+}
+.unselected-i2601273-1 {
+  color: var(--black);
+  height: 21px;
+  margin-left: 32px;
+  min-height: 21px;
+  min-width: 70px;
+  mix-blend-mode: normal;
+}
+.unselected-i2601273-2 {
+  color: var(--black);
+  height: 21px;
+  margin-left: 31px;
+  min-height: 21px;
+  min-width: 72px;
+  mix-blend-mode: normal;
+}
+.unselected-i2601273-3 {
+  color: var(--black);
+  height: 21px;
+  margin-left: 38px;
+  min-height: 21px;
+  min-width: 52px;
+  mix-blend-mode: normal;
+}
+.unselected-i2601273-4 {
+  color: var(--black);
+  height: 21px;
+  margin-left: 26px;
+  min-height: 21px;
+  min-width: 65px;
+  mix-blend-mode: normal;
+}
+.unselected-i2601273-5 {
+  color: var(--black);
+  height: 21px;
+  margin-left: 26px;
+  min-height: 21px;
+  min-width: 39px;
+  mix-blend-mode: normal;
+}
+.unselected-i2601273-6 {
+  color: var(--black);
+  height: 21px;
+  margin-left: 32px;
+  min-height: 21px;
+  mix-blend-mode: normal;
+}

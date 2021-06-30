@@ -1,0 +1,17 @@
+.footer {
+  align-items: flex-start;
+  background-color: var(--mine-shaft);
+  display: flex;
+  height: 384px;
+  margin-top: 1px;
+  min-width: 1440px;
+  padding: 40px 80px;
+  position: relative;
+}
+.frame-1585 {
+  align-items: flex-start;
+  display: flex;
+  height: 280px;
+  min-width: 1061px;
+  position: relative;
+}
